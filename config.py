@@ -39,19 +39,17 @@ class Txt(object):
 
 ➻ This Bot Also Supports Custom Thumbnail And Custom Caption.
 
-<b>Bot Is Made By :</b> @Madflix_Bots"""
+<b>Bot Is Made By :</b> @TGCinemaworld"""
 
-    ABOUT_TXT = """
-╭───────────────⍟
-├<b>🤖 My Name</b> : {}
-├<b>🖥️ Developer</b> : <a href=https://t.me/Madflix_Bots>Madflix Botz</a> 
-├<b>👨‍💻 Programer</b> : <a href=https://t.me/MadflixOfficials>Jishu Developer</a>
-├<b>📕 Library</b> : <a href=https://github.com/pyrogram>Pyrogram</a>
-├<b>✏️ Language</b> : <a href=https://www.python.org>Python 3</a>
-├<b>💾 Database</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
-├<b>📊 Build Version</b> : <a href=https://instagram.com/jishu.editz>Rename v4.5.0</a></b>     
-╰───────────────⍟
-"""
+    ABOUT_TXT = """<b>╭───────────⍟
+├🤖 My Nᴀᴍᴇ : {}
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Vishnudhfm14>Vɪsʜɴᴜ MB🤍</a>
+├☃️ Fᴏᴜɴᴅᴇʀ Oꜰ : <a href=https://t.me/TGCinemaworld>Jᴏɪɴ Hᴇʀᴇ</a>
+├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
+├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
+├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
+├🌀 Mʏ Sᴇʀᴠᴇʀ : <a href=https://dashboard.render.com>Rᴇɴᴅᴇʀ</a>
+╰───────────────⍟ </b>"""
 
     HELP_TXT = """
 🌌 <b><u>How To Set Thumbnail</u></b>
@@ -90,17 +88,18 @@ class Txt(object):
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> `madflixofficial@axl`
+<b>🛍 UPI ID:</b> `wishvishnu179-1@okaxis`
 """
 
 
-    SEND_METADATA = """<b><u>🖼️  HOW TO SET CUSTOM METADATA</u></b>
+    SEND_METADATA = """
+❪ SET CUSTOM METADATA ❫
 
-For Example :-
+<b>☞ Fᴏʀ Exᴀᴍᴘʟᴇ :-</b>
 
-<code>By :- @Madflix_Bots</code>
+◦ <code><b> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="𝙑𝙄𝙎𝙃𝙉𝙐👽@𝐓𝐆𝐂𝐢𝐧𝐞𝐦𝐚𝐰𝐨𝐫𝐥𝐝" -metadata author="𝙑𝙄𝙎𝙃𝙉𝙐👽@𝐓𝐆𝐂𝐢𝐧𝐞𝐦𝐚𝐰𝐨𝐫𝐥𝐝" -metadata:s:s title="Subs By :-𝐕𝐢𝐬𝐡𝐧𝐮 𝐌𝐁🤍" -metadata:s:a title="𝙑𝙄𝙎𝙃𝙉𝙐👽@𝐓𝐆𝐂𝐢𝐧𝐞𝐦𝐚𝐰𝐨𝐫𝐥𝐝" -metadata:s:v title="𝙑𝙄𝙎𝙃𝙉𝙐👽@𝐓𝐆𝐂𝐢𝐧𝐞𝐦𝐚𝐰𝐨𝐫𝐥𝐝" </code>
 
-💬 For Any Help Contact @MadflixOfficials
+<b><i>📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Vishnudhfm14</b></i>
 """
 
 
